@@ -1,2 +1,2 @@
 # Retail-Sales-An-lisis
-Análisis de venta con phyton y power BI.
+Análisis de venta con python y power BI.
